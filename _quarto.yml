@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "<Your Name> Personal Website"
+  title: "Atticus McDowell Personal Website"
   search:
     location: navbar
     type: overlay
@@ -52,11 +52,11 @@ format:
           }
         </style>
         <div class="sticky-header">
-          &lt;Your Name&gt; Personal Website
+          &lt;Atticus McDowell &gt; Personal Website
         </div>
 
-site-url: "https://<yourusername>.github.io/<repositoryname>/"
-repo-url: "https://github.com/<yourusername>/<repositoryname>"
+site-url: "https://a23mcdowellpavlov.github.io/Website-Workshop/"
+repo-url: "https://github.com/a23mcdowellpavlov/Website-Workshop"
 repo-actions: [edit, issue]
 
 editor: visual
